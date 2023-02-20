@@ -1,6 +1,10 @@
 .icon_img{
     background-color: #25282f;
 }
+.mini_address{
+    padding: top 30px;;
+    
+}
 .blank_space{
    position: absolute;
     background-color: rgb(245, 245, 245);
@@ -35,4 +39,24 @@
     font-weight: 800;
     padding-top: 4%;
     padding-left: 7.9%;
+}
+.pink_color{
+    background-color: #c43a7491;
+    padding: 5%;
+    width: 5%;
+    margin-bottom: 25%;
+}
+.About_company{
+    background-color: rgb(245, 245, 245);
+    padding: 4%;
+    position: relative;
+}
+.Descripsion_part{
+    padding: 3%;
+    text-align: justify;       
+}
+.Descripsion_part img{
+    height: 25%;
+    width: 15%;
+    margin-bottom: 2%;
 }
