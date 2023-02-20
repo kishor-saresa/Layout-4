@@ -1,7 +1,19 @@
 .icon_img{
     background-color: #25282f;
 }
-.blankspace{
+.blank_space{
    position: absolute;
     background-color: rgb(245, 245, 245);
+}
+.main_img{
+    position: absolute;
+}
+.business{
+    background-color: #2889c190;
+    color: white;
+    position: relative;   
+}
+.business h3, .business h2, .business h4{
+    padding-left: 7%;
+    padding-bottom: 6%;
 }
