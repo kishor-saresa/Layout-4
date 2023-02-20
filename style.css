@@ -17,3 +17,22 @@
     padding-left: 7%;
     padding-bottom: 6%;
 }
+.business h3  {
+    font-size: 400%;
+    font-weight: 900;
+    margin-top: -15.4%;
+    padding-left: 7.4%;
+    padding-bottom: 9.5%;
+}
+.business h2{
+    font-size: 800%;
+    font-weight: 1000;
+    color: rgba(255, 255, 255, 0.543);
+    letter-spacing: 5px;
+}
+.business h4{
+    font-size: 200%;
+    font-weight: 800;
+    padding-top: 4%;
+    padding-left: 7.9%;
+}
